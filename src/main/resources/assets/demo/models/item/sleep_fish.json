@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "demo:items/sleep_fish"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "demo:size": 16
+      },
+      "model": "item/gold_ingot"
+    }
+  ]
+}

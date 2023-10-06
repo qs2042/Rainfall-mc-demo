@@ -1,0 +1,21 @@
+{
+  "itemGroup.constellation_item_group": "itemGroup",
+  "itemGroup.constellation_block_group": "blockGroup",
+
+  "item.demo.furry_amateur_treasures": "FurryBai",
+  "item.demo.sleep_fish": "sleepFish",
+
+  "block.demo.rock_pro": "rockPro",
+  "block.demo.rick_cake": "rickCake",
+
+  "item.demo.permit": "permit",
+  "item.demo.fish_soup": "fishSoup",
+  "item.demo.flower_nectar": "flowerNectar",
+  "item.demo.black_ghostblade": "blackGhostblade",
+  "item.demo.winter_melon": "winterMelon",
+
+  "item.demo.tiger_helmet": "tigerHelmet",
+  "item.demo.tiger_chestplate": "tigerChestplate",
+  "item.demo.tiger_leggings": "tigerLeggings",
+  "item.demo.tiger_boots": "tigerBoots"
+}

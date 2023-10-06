@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "demo:blocks/该方块粒子效果（破坏时飞出的粒子）对应的贴图文件名称",
+    "down": "demo:blocks/该方块底面对应的贴图文件名称",
+    "up": "demo:blocks/该方块底面对应的贴图文件名称",
+    "north": "demo:blocks/该方块北面对应的贴图文件名称",
+    "south": "demo:blocks/该方块南面对应的贴图文件名称",
+    "west": "demo:blocks/该方块西面对应的贴图文件名称",
+    "east": "demo:blocks/该方块东面对应的贴图文件名称"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "variants":{
+    // 没有方块状态, 所以key为空
+    "": { "model": "demo:block/rock_pro" }
+  }
+}
